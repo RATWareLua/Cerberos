@@ -1,11 +1,11 @@
 # Cerberos
 Made by **[Jxereas](https://v3rmillion.net/member.php?action=profile&uid=604105) / `Jxereas#3766`**
 
-[Documentation](https://github.com/GhostDuckyy/Ui-Librarys/blob/main/Cerberus/Docs.lua)
+[Documentation](https://github.com/RATWareLua/Cerberos/blob/main/Docs.lua)
 
 ### Loadstring
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Jxereas/UI-Libraries/main/cerberus.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RATWareLua/Cerberos/refs/heads/main/source.lua"))()
 ```
 
 ## Features
