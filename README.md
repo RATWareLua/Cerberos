@@ -1,7 +1,7 @@
 # Cerberos
 Made by **[Jxereas](https://v3rmillion.net/member.php?action=profile&uid=604105) / `Jxereas#3766`**
 
-[Documentation](https://github.com/RATWareLua/Cerberos/blob/main/Docs.lua)
+[Example](https://github.com/RATWareLua/Cerberos/blob/main/Example.lua)
 
 ### Loadstring
 ```lua
